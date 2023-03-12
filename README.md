@@ -1,4 +1,4 @@
-# read_me
+# README
 
 # Pytorch implementation of musicVAE
 
@@ -34,7 +34,7 @@ output = (batch_size, probabilities)
 
 **Models are designed to follow the structure shown in the figure below.**
 
-![figure of whole model structure](read_me%20a8ab464b73f445f3a5e8653f952fadea/Untitled.png)
+![figure of whole model structure](image/Untitled.png)
 
 figure of whole model structure
 
@@ -65,6 +65,8 @@ It is set to train for a short time (1 hour, A100 GPU). If trained for a longer 
 ```python
 python train.py
 ```
+
+![Untitled](image/Untitled%201.png)
 
 # Further work
 
