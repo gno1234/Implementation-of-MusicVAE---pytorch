@@ -66,7 +66,7 @@ It is set to train for a short time (1 hour, A100 GPU). If trained for a longer 
 python train.py
 ```
 
-![Untitled](image/Untitled 01.png)
+![Untitled](image/Untitled 1.png)
 
 # Further work
 
