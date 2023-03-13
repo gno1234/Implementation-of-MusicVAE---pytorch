@@ -66,7 +66,11 @@ It is set to train for a short time (1 hour, A100 GPU). If trained for a longer 
 python train.py
 ```
 
+<<<<<<< HEAD
 ![Untitled](image/Untitled_1.png)
+=======
+![Untitled](image/Untitled 1.png)
+>>>>>>> e3c6445410edf2f82821016f0caeb885f52e123e
 
 # Further work
 
